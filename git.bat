@@ -1,3 +1,5 @@
-git.exe add .
-git.exe commit -m "update" -a
-git.exe push
+#!/bin/sh
+set HOME=%USERPROFILE%
+git add .
+git commit -m "update" -a
+git push
