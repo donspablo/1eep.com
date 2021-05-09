@@ -1,5 +1,5 @@
 ---
-title: '1eep.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: '1eep.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "1eep.com is under construction."
 ---
 
